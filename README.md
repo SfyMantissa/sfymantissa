@@ -1,16 +1,13 @@
-### Hi there 👋
+![Sfy Mantissa](https://i.imgur.com/0Cffu3C.png)
 
-<!--
-**SfyMantissa/sfymantissa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+  ![Greeting](https://readme-typing-svg.demolab.com/?lines=Hi+there!&color=bd93f9&center=true)
+  
+</div>
 
-Here are some ideas to get you started:
+![Scrrenfetch](https://i.imgur.com/rAuR3vC.jpg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**You may call me Sfy**, I am an avid Linux and crypto enthusiast.<br>
+RIght now I am involved in Solidity development and smart contract auditing.<br>
+Feel free to contact me, I am always interested in meeting new exciting people 😘
