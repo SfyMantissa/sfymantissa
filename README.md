@@ -20,6 +20,6 @@ Feel free to contact me, I am always interested in meeting new exciting people ð
   
 <img width="50%" align="right" src="https://leetcard.jacoblin.cool/sfymantissa?ext=activity&theme=nord&hide=ranking&border=0" />
 
-![](https://github-readme-stats.vercel.app/api?username=sfymantissa&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&show_icons=true&line_height=28)
+![](https://github-readme-stats.vercel.app/api?username=sfymantissa&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&show_icons=true&line_height=28&card_width=350)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sfymantissa&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact&card_width=417)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sfymantissa&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact&card_width=389)
