@@ -1,4 +1,4 @@
-![Sfy Mantissa](https://i.imgur.com/0Cffu3C.png)
+bb![Sfy Mantissa](https://i.imgur.com/0Cffu3C.png)
 
 <div align="center">
   
@@ -21,7 +21,3 @@ Feel free to contact me, I am always interested in meeting new exciting people ð
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sfymantissa&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact&card_width=800)
 
 ![](https://leetcard.jacoblin.cool/sfymantissa?ext=activity&theme=nord&hide=ranking&border=0&width=850)
-
-## ðŸ’« Screenfetch
-
-![Screenfetch](https://i.imgur.com/rAuR3vC.jpg)
